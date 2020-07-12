@@ -19,4 +19,4 @@ Readme : Brief explaination of the project and the tools required.
 
 #### Blog post
 
-[Sparkify blog]()
+[Sparkify blog](https://medium.com/@sonyand96/churn-analysis-on-a-huge-dataset-861a8e7c8c25)
