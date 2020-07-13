@@ -47,3 +47,6 @@ Procedures of analysis:
 
 ## Acknowledgement
 The dataset is kindly provided by Udacity team. And some instructions in the notebook are also well prepared by Udacity team.
+
+## References
+For this project, the course material at Udacity has been used for reference. On top of that, the official pySpark documentation has also been used ( https://spark.apache.org/docs/latest/api/python/index.html )
