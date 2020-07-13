@@ -10,13 +10,13 @@ Udacity Capstone project
 The project aims to predict the churned users based on activities and attributes data of them. And deploy the solution on a distributed system. Original size of the datasets is 12GB. Due to limited computation power of free version of IBM cloud, a medium sized sub-dataset is utitized.
 
 ## Expected Results
-At the end of this project, a model for churn prediction should have been created and evaluated. The model should have been trained and tested on a subset of the 12GB of data, and the final testing should happen on completely separate validation set. An accuracy, F1-Score confusion matrix will be used to evaluate the performance and feasibility of the model.
-
+At the end of this project, a model for churn prediction should have been created and evaluated. The model should have been trained and tested on a subset of the 12GB of data, and the final testing should happen on completely separate validation set. 
 
 ## Framework needed to run this jupyter notebook:
 - Pyspark SQL and Pyspark ML and other libraries its building on
 - Matplotlib for visualization 
--IBM Cloud or other cloud services.
+- IBM Cloud or other cloud services.
+- Python 3.5
 
 ## Overview of the files
 
@@ -41,7 +41,7 @@ Procedures of analysis:
 4. modelling
 5. deploy on IBM cloud
 
-#### Blog post
+## Blog post
 [Sparkify blog](https://medium.com/@sonyand96/churn-analysis-on-a-huge-dataset-861a8e7c8c25)
 
 
